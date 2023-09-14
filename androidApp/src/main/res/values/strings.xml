@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">NYC Schools</string>
+
+<string name="successful">Successful</string>
+<string name="unsuccessful">Unsuccessful</string>
+<string name="no_data">No data</string>
+
+<string name="launch_year_field">Launch year: %s</string>
+<string name="mission_name_field">Launch name: %s</string>
+<string name="launch_success_field">Launch success: %s</string>
+<string name="details_field">Launch details: %s</string>
+    <string name="school_name">School name: %s</string>
+    <string name="city">City: %s</string>
+    <string name="dbn">DBN: %s</string>
+</resources>

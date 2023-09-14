@@ -1,0 +1,20 @@
+CREATE TABLE SchoolData (
+    schoolName TEXT,
+    city TEXT,
+    dbn TEXT
+);
+
+insertSchoolData:
+INSERT INTO SchoolData(schoolName,city,dbn)
+VALUES(?,?,?);
+
+
+removeAllSchoolData:
+DELETE FROM SchoolData;
+
+selectAllSchoolData:
+SELECT SchoolData.*
+FROM SchoolData;
+
+
+

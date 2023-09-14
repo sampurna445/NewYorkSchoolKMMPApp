@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="numOfSATTakers" type="id" />
+    <item name="satReadingAvgScore" type="id" />
+    <item name="satWritingAvgScore" type="id" />
+    <item name="satMathAvgScore" type="id" />
+</resources>
